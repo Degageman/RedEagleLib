@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569146846496</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加权限1">
+      <created>1569149582909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569149582909</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -143,7 +150,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="首次" />
     <MESSAGE value="添加权限" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加权限" />
+    <MESSAGE value="添加权限1" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加权限1" />
   </component>
   <component name="masterDetails">
     <states>
