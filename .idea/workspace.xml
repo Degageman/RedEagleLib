@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a5c0160-da99-4bf5-93f4-bb8e9bcb877c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1-sources.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1-sources.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1-sources.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1-sources.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1.aar" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1.aar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1.aar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1.aar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/1.0.1/RedEagleLib-1.0.1.aar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/maven-metadata.xml.sha1" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RedEagleLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RedEagleLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RedEagleLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RedEagleLib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RedEagleLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RedEagleLib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hnhxqkj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RedEagleLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RedEagleLib" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hnhxqkj" type="462c0819:PsiDirectoryNode" />
+              <item name="RedEagleLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="E:/AndroidStudio/Develop/sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a5c0160-da99-4bf5-93f4-bb8e9bcb877c" name="Default Changelist" comment="" />
+      <created>1569135543888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569135543888</updated>
+    </task>
+    <task id="LOCAL-00001" summary="首次">
+      <created>1569135939617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569135939617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32977098" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 16 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
