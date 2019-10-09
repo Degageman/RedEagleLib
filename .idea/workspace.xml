@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5c0160-da99-4bf5-93f4-bb8e9bcb877c" name="Default Changelist" comment="" />
+    <list default="true" id="4a5c0160-da99-4bf5-93f4-bb8e9bcb877c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +28,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -56,6 +57,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -145,15 +147,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570533295384</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="提供activity支持">
+      <created>1570603941717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570603941717</updated>
+    </task>
+    <task id="LOCAL-00010" summary="提供activity支持2">
+      <created>1570608310567</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570608310567</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33664122" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34351146" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -180,7 +195,9 @@
     <MESSAGE value="添加权限1" />
     <MESSAGE value="添加权限2" />
     <MESSAGE value="添加服务面对面模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加服务面对面模块" />
+    <MESSAGE value="提供activity支持" />
+    <MESSAGE value="提供activity支持2" />
+    <option name="LAST_COMMIT_MESSAGE" value="提供activity支持2" />
   </component>
   <component name="masterDetails">
     <states>
