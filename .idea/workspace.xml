@@ -54,8 +54,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,15 +165,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570608936614</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="修复初始化问题支持1.0.7">
+      <created>1572257195332</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1572257195332</updated>
+    </task>
+    <task id="LOCAL-00013" summary="已修复初始化问题支持1.0.7">
+      <created>1572257212468</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1572257212468</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26564884" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.27099237" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -203,7 +216,9 @@
     <MESSAGE value="提供activity支持" />
     <MESSAGE value="提供activity支持2" />
     <MESSAGE value="提供activity支持1.0.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="提供activity支持1.0.6" />
+    <MESSAGE value="修复初始化问题支持1.0.7" />
+    <MESSAGE value="已修复初始化问题支持1.0.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="已修复初始化问题支持1.0.7" />
   </component>
   <component name="masterDetails">
     <states>
