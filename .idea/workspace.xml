@@ -29,8 +29,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -60,6 +58,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,14 +204,22 @@
       <option name="project" value="LOCAL" />
       <updated>1574738581959</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="会议发布修改逻辑 1.1.1">
+      <created>1575469469122</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575469469122</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2816794" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2870229" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -246,7 +254,8 @@
     <MESSAGE value="修复登陆问题，闪退问题 1.0.8" />
     <MESSAGE value="修复登陆问题，闪退问题 1.0.9" />
     <MESSAGE value="修复登陆逻辑 1.1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="修复登陆逻辑 1.1.0" />
+    <MESSAGE value="会议发布修改逻辑 1.1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="会议发布修改逻辑 1.1.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com/hnhxqkj/RedEagleLib/maven-metadata.xml">
